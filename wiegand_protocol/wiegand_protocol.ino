@@ -1,5 +1,6 @@
 
 /*this program reads from rfid card reader*/
+/*it gives the id code of the card*/
 #define MAX_LENGTH 50
 #define WEIGAND_WAIT_TIME  3000
 #define D0 2
