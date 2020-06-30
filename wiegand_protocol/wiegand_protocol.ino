@@ -15,6 +15,7 @@ unsigned long facility_code=0;
 unsigned long card_code=0;
 unsigned long id_code=0;
 int a;
+int b;
 
 void D0_read()
 {
