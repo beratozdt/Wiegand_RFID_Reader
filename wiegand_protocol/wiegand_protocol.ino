@@ -14,14 +14,7 @@ unsigned int i;
 unsigned long facility_code=0;
 unsigned long card_code=0;
 unsigned long id_code=0;
-<<<<<<< HEAD
-int change;
 int a;
-int z;
-=======
-
->>>>>>> 52af241eb8eb6d9e4ed7125fda588b8079d75b5c
- 
 
 void D0_read()
 {
