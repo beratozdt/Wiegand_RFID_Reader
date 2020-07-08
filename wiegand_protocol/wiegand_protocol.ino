@@ -14,7 +14,12 @@ unsigned int i;
 unsigned long facility_code=0;
 unsigned long card_code=0;
 unsigned long id_code=0;
+<<<<<<< Updated upstream
 
+=======
+int change;
+int a;
+>>>>>>> Stashed changes
  
 
 void D0_read()
